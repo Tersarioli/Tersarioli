@@ -1,16 +1,15 @@
-## Hi there 👋
+### 🎓 Sobre mim
+- 🚀 Cursando **Análise e Desenvolvimento de Sistemas**.
+- 🛠️ Focado em aprender desenvolvimento de software, arquitetura de sistemas e segurança da informação.
+- 🎯 Buscando oportunidades para aplicar meus conhecimentos em projetos reais e evoluir profissionalmente.
 
-<!--
-**Tersarioli/Tersarioli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💻 Tecnologias e Estudos
+- **Linguagens & Tecnologias:** HTML, MySQL, Python (Básico) e GitHub.
+- **Áreas de Interesse:** Desenvolvimento Web, Segurança da Informação, Banco de Dados e Psicologia / Comportamento Humano.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📬 Conecte-se comigo
+- 💼 **LinkedIn:** [Meu Perfil no LinkedIn](https://www.linkedin.com/in/vitor-tersarioli-lima)
